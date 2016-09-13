@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_91-b15 (Oracle Corporation)
+Trusted-Only: true
+Codebase: I:\Program0.6\LWDP\dist
+Application-Library-Allowable-Codebase: I:\Program0.6\LWDP\dist
+Caller-Allowable-Codebase: I:\Program0.6\LWDP\dist
+Permissions: all-permissions
+Application-Name: Water Billing System with Invoice
+

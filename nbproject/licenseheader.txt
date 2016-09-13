@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Programmer: Real Bert Magallanes
+${licensePrefix}Email Address: realbertmagallanes@gmail.com
+<#if licenseLast??>
+${licenseLast}
+</#if>
